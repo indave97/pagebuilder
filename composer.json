@@ -1,0 +1,21 @@
+{
+    "name": "indave97/yii2-pagebuilder",
+    "description": "Page Builder for Yii 2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "indave",
+            "email": "indave9774@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "indave97\\pagebuilder\\": ""
+        }
+    }
+}
